@@ -32,7 +32,7 @@ class HomeRoute extends StatelessWidget {
             CircleAvatar(
               radius: 50.0,
               backgroundColor: Colors.green[200],
-              backgroundImage: AssetImage('image/avatar.JPG'),
+              backgroundImage: AssetImage('image/avatar.jpg'),
             ),
             Text(
               'hannah M. Garcia',
